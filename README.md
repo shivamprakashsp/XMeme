@@ -15,16 +15,16 @@ XMeme is a meme stream application. A platform that lets you upload and share me
         </ul>
 
 
-##Backend functions:
+## Backend functions:
 
-###Run Backend 
+### Run Backend 
 npm start
 
-###Test Backend
+### Test Backend
 nodemon test
 
 
-##Frontend Functions:
+## Frontend Functions:
 
-###Run live-server
-liveserver
+### Run live-server
+live-server
