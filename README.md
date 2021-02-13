@@ -20,7 +20,7 @@ XMeme is a meme stream application. A platform that lets you upload and share me
 ## Backend functions:
 
 ### Run Backend 
->npm start
+>npm install && npm start
 
 ### Test Backend
 >nodemon test
