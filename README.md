@@ -1,4 +1,4 @@
-# Checkout the project here : https://memextream.netlify.app/
+# Checkout the project here: https://memextream.netlify.app/
 
 Backend : Node.js, Express.js
 Frontend : HTML, CSS, js
