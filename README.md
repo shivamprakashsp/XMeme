@@ -16,7 +16,7 @@ XMeme is a meme stream application. A platform that lets you upload and share me
             <li>Edit a meme using Patch Method on endpoint /memes/id</li>  
         </ul>
 
-Make sure you install Nodejs(https://nodejs.org/en/)
+Make sure you install Nodejs(https://nodejs.org/en/) and MongoDB (https://www.mongodb.com/try/download/shell)
 ## Backend functions:
 
 ### Run Backend 
