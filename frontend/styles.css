@@ -11,6 +11,8 @@ background-color: #f5ef47;
 }
 
 
+
+
 .meme-form{
     text-align: center;
     height: 330px;
@@ -71,6 +73,7 @@ img{
     border: 1px groove rgb(29, 28, 28);
     border-radius: 7px;
     background-color: rgb(32, 32, 32);
+    cursor: pointer;
 }
 
 .like:hover{
