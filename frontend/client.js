@@ -55,9 +55,8 @@ function listAll(){
     .then(response => response.json())
     .then(memes_data =>{
       console.log(memes_data);
-      memes_data.reverse();
     var len = memes_data.length;
-    for(var i = 0; i < min(100,len); i++)
+    for(var i = len; i >= len-100; i--)       
     {
       if(memes_data[i] != 'undefined')
       { 
