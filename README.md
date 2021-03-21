@@ -31,8 +31,8 @@ Make sure you install Nodejs(https://nodejs.org/en/) and MongoDB (https://www.mo
 ### Run live-server
 >live-server
 
-<br>
 ## Contributions:
+
 You can start contributing to the project by raising issues.
 Suggestions and PR solving the issue is most welcome. 
 Give a detailed overview of what changes you have implemented in the PR
