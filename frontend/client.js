@@ -59,7 +59,7 @@ function listAll(){
     .then(memes_data =>{
       console.log(memes_data);
     var len = memes_data.length;
-    for(var i = len; i >= max(0,len-100); i--)       
+    for(var i = len-1; i >= max(0,len-100); i--)       
     {
       if(memes_data[i] != 'undefined')
       { 
